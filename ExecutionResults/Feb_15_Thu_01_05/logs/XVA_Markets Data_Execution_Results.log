@@ -1,0 +1,81 @@
+ <2018-02-15 13:05:32> - Browser - Markets Data                                       - Initiated chrome browser instance
+ <2018-02-15 13:05:33> - Browser - Markets Data                                       - Url
+ <2018-02-15 13:05:46> - GeneralUtil - Markets Data                                       - Captured screenshot loginToXVA.png
+ <2018-02-15 13:05:47> - Common - Markets Data                                       - Login to XVA is successful
+ <2018-02-15 13:05:48> - GeneralUtil - Markets Data                                       - Captured screenshot loginToXVA.png
+ <2018-02-15 13:05:48> - MarketData - Markets Data                                       - Step24 : Verify Market Data Items
+ <2018-02-15 13:05:48> - MarketData - Markets Data                                       - Markets MarketData item is displayed with given xpath: //div[starts-with(@class,'src-routes-Home-components-MainPage-SidebarContent')]/div/div/div[starts-with(@class,'src-components-BetterTreeView-TreeView-TreeView')]//ul/li/span/ul/li[1]/div/div/div[text() ='Markets']
+ <2018-02-15 13:05:48> - MarketData - Markets Data                                       - Fixings MarketData item is displayed with given xpath: //div[starts-with(@class,'src-routes-Home-components-MainPage-SidebarContent')]/div/div/div[starts-with(@class,'src-components-BetterTreeView-TreeView-TreeView')]//ul/li/span/ul/li[2]/div/div/div[text() ='Fixings']
+ <2018-02-15 13:05:48> - MarketData - Markets Data                                       - Market Descriptors MarketData item is displayed with given xpath: //div[starts-with(@class,'src-routes-Home-components-MainPage-SidebarContent')]/div/div/div[starts-with(@class,'src-components-BetterTreeView-TreeView-TreeView')]//ul/li/span/ul/li[3]/div/div/div[text() ='Market Descriptors']
+ <2018-02-15 13:05:48> - MarketData - Markets Data                                       - Step31 :Add a Fixings
+ <2018-02-15 13:05:48> - GeneralUtil - Markets Data                                       - Captured screenshot marketData_addFixings.png
+ <2018-02-15 13:05:51> - GeneralUtil - Markets Data                                       - Captured screenshot marketData_addFixings.png
+ <2018-02-15 13:05:52> - GeneralUtil - Markets Data                                       - Add item is clicked on ContextMenu.
+ <2018-02-15 13:05:54> - GeneralUtil - Markets Data                                       - Captured screenshot marketData_addFixings.png
+ <2018-02-15 13:05:54> - GeneralUtil - Markets Data                                       - Add item is clicked on ContextMenu.
+ <2018-02-15 13:05:55> - Common - Markets Data                                       - Displayed notifications is :Success:Save Fixings
+ <2018-02-15 13:05:55> - GeneralUtil - Markets Data                                       - Captured screenshot handleNotifications.png
+ <2018-02-15 13:05:57> - GeneralUtil - Markets Data                                       - Captured screenshot marketData_addFixings.png
+ <2018-02-15 13:05:57> - MarketData - Markets Data                                       - Fixings id AUD-BB2018.02.15.13.05.17 is available in the Fixings
+ <2018-02-15 13:05:57> - MarketData - Markets Data                                       - Fixings created successfully
+ <2018-02-15 13:05:57> - MarketData - Markets Data                                       - Step31 :Edit a Fixings
+ <2018-02-15 13:06:00> - Common - Markets Data                                       - Save Fixings is not displayed in notification
+ <2018-02-15 13:06:02> - MarketData - Markets Data                                       - Fixings id AUD-BB2018.02.15.13.05.17 is available in the Fixings
+ <2018-02-15 13:06:02> - GeneralUtil - Markets Data                                       - Captured screenshot marketData_editFixings.png
+ <2018-02-15 13:06:02> - MarketData - Markets Data                                       - Fixings edited successfully
+ <2018-02-15 13:06:02> - MarketData - Markets Data                                       - Step33 :Clone a Fixings
+ <2018-02-15 13:06:05> - GeneralUtil - Markets Data                                       - Captured screenshot marketData_cloneFixings.png
+ <2018-02-15 13:06:06> - GeneralUtil - Markets Data                                       - Captured screenshot marketData_cloneFixings.png
+ <2018-02-15 13:06:06> - GeneralUtil - Markets Data                                       - Clone item is clicked on ContextMenu.
+ <2018-02-15 13:06:07> - Common - Markets Data                                       - Save Fixings is not displayed in notification
+ <2018-02-15 13:06:10> - MarketData - Markets Data                                       - Fixings id AUD-BB2018.02.15.13.05.17 is available in the Fixings
+ <2018-02-15 13:06:10> - GeneralUtil - Markets Data                                       - Captured screenshot marketData_cloneFixings.png
+ <2018-02-15 13:06:10> - MarketData - Markets Data                                       - Fixings cloned successfully
+ <2018-02-15 13:06:10> - MarketData - Markets Data                                       - Step33 :Upload a Fixings
+ <2018-02-15 13:06:12> - GeneralUtil - Markets Data                                       - Captured screenshot marketData_uploadFixings.png
+ <2018-02-15 13:06:12> - GeneralUtil - Markets Data                                       - Captured screenshot marketData_uploadFixings.png
+ <2018-02-15 13:06:12> - GeneralUtil - Markets Data                                       - CSV Upload item is clicked on ContextMenu.
+ <2018-02-15 13:06:18> - MarketData - Markets Data                                       - Fixings id AUD-BB-6M is available in the Fixings
+ <2018-02-15 13:06:19> - GeneralUtil - Markets Data                                       - Captured screenshot marketData_uploadFixings.png
+ <2018-02-15 13:06:19> - MarketData - Markets Data                                       - Fixings uploaded successfully
+ <2018-02-15 13:06:19> - MarketData - Markets Data                                       - Step33 :Download a Fixings
+ <2018-02-15 13:06:23> - GeneralUtil - Markets Data                                       - Captured screenshot marketData_downloadFixings.png
+ <2018-02-15 13:06:23> - GeneralUtil - Markets Data                                       - Captured screenshot marketData_downloadFixings.png
+ <2018-02-15 13:06:25> - GeneralUtil - Markets Data                                       - CSV Download item is clicked on ContextMenu.
+ <2018-02-15 13:06:25> - GeneralUtil - Markets Data                                       - Download All item is clicked on ContextMenu.
+ <2018-02-15 13:06:29> - GeneralUtil - Markets Data                                       - Captured screenshot marketData_downloadFixings.png
+ <2018-02-15 13:06:29> - MarketData - Markets Data                                       - java.lang.Exception: Unable to download file. Exception:null
+ <2018-02-15 13:06:29> - MarketData - Markets Data                                       - Step36 :Add a Market Descriptors
+ <2018-02-15 13:06:29> - GeneralUtil - Markets Data                                       - Captured screenshot marketData_addMarketDescriptors.png
+ <2018-02-15 13:06:31> - GeneralUtil - Markets Data                                       - Captured screenshot marketData_addMarketDescriptors.png
+ <2018-02-15 13:06:31> - GeneralUtil - Markets Data                                       - Add item is clicked on ContextMenu.
+ <2018-02-15 13:06:33> - GeneralUtil - Markets Data                                       - Captured screenshot addMarketDescriptorContextMenu.png
+ <2018-02-15 13:06:33> - GeneralUtil - Markets Data                                       - Insert Column item is clicked on ContextMenu.
+ <2018-02-15 13:06:33> - GeneralUtil - Markets Data                                       - Captured screenshot addMarketDescriptorContextMenu.png
+ <2018-02-15 13:06:33> - GeneralUtil - Markets Data                                       - Insert Column item is clicked on ContextMenu.
+ <2018-02-15 13:06:34> - GeneralUtil - Markets Data                                       - Captured screenshot addMarketDescriptorContextMenu.png
+ <2018-02-15 13:06:34> - GeneralUtil - Markets Data                                       - Insert Column item is clicked on ContextMenu.
+ <2018-02-15 13:06:35> - GeneralUtil - Markets Data                                       - Captured screenshot addMarketDescriptorContextMenu.png
+ <2018-02-15 13:06:35> - GeneralUtil - Markets Data                                       - Insert Column item is clicked on ContextMenu.
+ <2018-02-15 13:06:37> - Common - Markets Data                                       - Displayed notifications is :Save Market Descriptor:1
+ <2018-02-15 13:06:37> - GeneralUtil - Markets Data                                       - Captured screenshot handleNotifications.png
+ <2018-02-15 13:06:40> - GeneralUtil - Markets Data                                       - Captured screenshot marketData_addMarketDescriptors.png
+ <2018-02-15 13:06:40> - MarketData - Markets Data                                       - Market Descriptors id EQ_MarketDescriptor_2018.02.15.13.05.17 is available in the Market Descriptors
+ <2018-02-15 13:06:40> - MarketData - Markets Data                                       - Market Descriptors created successfully
+ <2018-02-15 13:06:40> - MarketData - Markets Data                                       - Step36 :edit a Market Descriptors
+ <2018-02-15 13:06:42> - Common - Markets Data                                       - Displayed notifications is :Save Market Descriptor:
+ <2018-02-15 13:06:43> - GeneralUtil - Markets Data                                       - Captured screenshot handleNotifications.png
+ <2018-02-15 13:06:44> - GeneralUtil - Markets Data                                       - Captured screenshot marketData_editMarketDescriptors.png
+ <2018-02-15 13:06:44> - MarketData - Markets Data                                       - Market Descriptors id EQ_MarketDescriptor_2018.02.15.13.05.17 is not available in the Market Descriptors
+ <2018-02-15 13:06:44> - MarketData - Markets Data                                       - Market Descriptors edited successfully
+ <2018-02-15 13:06:44> - MarketData - Markets Data                                       - Step36 :Clone a Market Descriptors
+ <2018-02-15 13:06:45> - GeneralUtil - Markets Data                                       - Captured screenshot marketData_cloneMarketDescriptors.png
+ <2018-02-15 13:06:45> - GeneralUtil - Markets Data                                       - Clone item is clicked on ContextMenu.
+ <2018-02-15 13:06:48> - Common - Markets Data                                       - Displayed notifications is :Save Market Descriptor:
+ <2018-02-15 13:06:48> - GeneralUtil - Markets Data                                       - Captured screenshot handleNotifications.png
+ <2018-02-15 13:06:52> - GeneralUtil - Markets Data                                       - Captured screenshot marketData_cloneMarketDescriptors.png
+ <2018-02-15 13:06:52> - MarketData - Markets Data                                       - Market Descriptors id EQ_MarketDescriptor_2018.02.15.13.05.17_Clone is available in the Market Descriptors
+ <2018-02-15 13:06:52> - MarketData - Markets Data                                       - Market Descriptors cloned successfully
+ <2018-02-15 13:06:52> - MarketData - Markets Data                                       - Step36 :Upload a Market Descriptors
+ <2018-02-15 13:06:53> - GeneralUtil - Markets Data                                       - Captured screenshot marketData_uploadMarketDescriptors.png
+ <2018-02-15 13:06:53> - GeneralUtil - Markets Data                                       - CSV Upload item is clicked on ContextMenu.
