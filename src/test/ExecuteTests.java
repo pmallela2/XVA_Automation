@@ -30,13 +30,13 @@ public class ExecuteTests {
 
 	public static void main(String[] args) throws Exception {
 		
-		if(args != null)
-		{
+		/*if(args != null)
+		{*/
 			//targetServerURL=args[0];
 			targetServerURL="Url";
 			System.out.println(targetServerURL);
-		}
-		
+		/*}
+		*/
 		
 		Runtime.getRuntime().exec("taskkill /F /IM chromedriver.exe");
 		
